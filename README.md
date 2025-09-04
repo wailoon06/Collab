@@ -1,13 +1,19 @@
 # Collab
 
-## 🌟 Inspiration
-""
-
-
+## 🌟 Problem Statement
+"Traditional tutoring services are often expensive, inconvenient, or unavailable outside of fixed hours, leaving students without adequate support when they need it most. This gap hinders academic performance, increases stress, and discourages independent learning."
 
 ## 💡 What it does
+"Collab is an innovative tutoring platform designed to make learning affordable, flexible, and engaging. With AI chatbot support, interactive study rooms, live tutoring, and a rewards system, students gain instant help, collaborate effectively, and stay motivated."
 
+## Main Features
+🤖 AI Chatbot – instant help & smart recommendations.
 
+👥 Study Rooms – public/private group study where they could have their discussion
+
+🎓 Qualified Tutors – verified through a test before offering tutoring.
+
+💰 Collab Coins Marketplace – token economy for tutoring & rewards.
 
 
 ## 🎨 Prototype
