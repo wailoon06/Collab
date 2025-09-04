@@ -1,5 +1,12 @@
 <img width="174" height="60" alt="image" src="https://github.com/user-attachments/assets/34942fd9-63ec-455b-85af-08c21fb44b87" />
 
+## 👥 Team Members
+**Team Name: Watt To Code**
+
+- [Foo Wei Shan](https://www.linkedin.com/in/foo-wei-shan/)
+- [Ng Kah Lok](https://www.linkedin.com/in/ngkahlok/)
+- [Xenia Leong](https://www.linkedin.com/in/xenialeong/)
+- [Yong Wai Loon](https://www.linkedin.com/in/yong-wai-loon-a48543350/)
 
 ## 🌟 Problem Statement
 "Traditional tutoring services are often expensive, inconvenient, or unavailable outside of fixed hours, leaving students without adequate support when they need it most. This gap hinders academic performance, increases stress, and discourages independent learning."
@@ -52,13 +59,6 @@
 - **Database:** PostgreSQL
 - **Design & Prototype:** Figma
 - **AI/ML:** Python (TensorFlow) for recommendations
-
-
-## 👥 Team Members
-- [Foo Wei Shan](https://www.linkedin.com/in/foo-wei-shan/)
-- [Ng Kah Lok](https://www.linkedin.com/in/ngkahlok/)
-- [Xenia Leong](https://www.linkedin.com/in/xenialeong/)
-- [Yong Wai Loon](https://www.linkedin.com/in/yong-wai-loon-a48543350/)
 
 
 ## 📽️ Submission Video
