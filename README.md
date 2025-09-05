@@ -1,7 +1,7 @@
 <img width="174" height="60" alt="image" src="https://github.com/user-attachments/assets/34942fd9-63ec-455b-85af-08c21fb44b87" />
 
 ## 👥 Team Members
-**Team Name: Watt To Code**
+### **Team Name: Watt To Code**
 
 - [Foo Wei Shan](https://www.linkedin.com/in/foo-wei-shan/)
 - [Ng Kah Lok](https://www.linkedin.com/in/ngkahlok/)
@@ -62,4 +62,4 @@
 
 
 ## 📽️ Submission Video
-👉 [Watch on YouTube](https://youtube.com/your-demo-video)
+👉 [Watch on YouTube](https://youtu.be/YtDSnetcA9c?si=c_ftPnqA7ZZahHGu)
